@@ -7,7 +7,7 @@
  *  Dual licensed under the MIT (MIT-LICENSE.txt)
  *  and GPL (GPL-LICENSE.txt) licenses.
  *
- *  Project forked and enhanced by Benton Porter - March 26, 2011.
+ *  Project forked and enhanced by Benton Porter.
  *
  *  Built for jQuery library
  *  http://jquery.com
