@@ -12,5 +12,4 @@ I enhanced it to include the following option:
 
 * controlsAppendTo: 
   
-  Specify a target to which the controls will be appended.
-  By default, the controls are appended inline after the slider div.
+  Specify a target to which to append the controls. If you do not specify this, the controls are appended immediately after the slider div.
