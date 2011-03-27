@@ -1,31 +1,31 @@
 /*
- * 	Easy Slider 1.7 - jQuery plugin
- *	Original plugin written by Alen Grakalic	
- *	http://cssglobe.com/post/4004/easy-slider-15-the-easiest-jquery-plugin-for-sliding
+ *  Easy Slider 1.7 - jQuery plugin
+ *  Original plugin written by Alen Grakalic	
+ *  http://cssglobe.com/post/4004/easy-slider-15-the-easiest-jquery-plugin-for-sliding
  *
- *	Copyright (c) 2009 Alen Grakalic (http://cssglobe.com)
- *	Dual licensed under the MIT (MIT-LICENSE.txt)
- *	and GPL (GPL-LICENSE.txt) licenses.
+ *  Copyright (c) 2009 Alen Grakalic (http://cssglobe.com)
+ *  Dual licensed under the MIT (MIT-LICENSE.txt)
+ *  and GPL (GPL-LICENSE.txt) licenses.
  *
  *  Project forked and enhanced by Benton Porter - March 26, 2011.
  *
- *	Built for jQuery library
- *	http://jquery.com
+ *  Built for jQuery library
+ *  http://jquery.com
  *
  */
  
 /*
- *	markup example for $("#slider").easySlider();
+ *  markup example for $("#slider").easySlider();
  *	
- * 	<div id="slider">
- *		<ul>
- *			<li><img src="images/01.jpg" alt="" /></li>
- *			<li><img src="images/02.jpg" alt="" /></li>
- *			<li><img src="images/03.jpg" alt="" /></li>
- *			<li><img src="images/04.jpg" alt="" /></li>
- *			<li><img src="images/05.jpg" alt="" /></li>
- *		</ul>
- *	</div>
+ *      <div id="slider">
+ *	    <ul>
+ *	        <li><img src="images/01.jpg" alt="" /></li>
+ *		<li><img src="images/02.jpg" alt="" /></li>
+ *		<li><img src="images/03.jpg" alt="" /></li>
+ *		<li><img src="images/04.jpg" alt="" /></li>
+ *		<li><img src="images/05.jpg" alt="" /></li>
+ *          </ul>
+ *      </div>
  *
  */
 
@@ -43,7 +43,7 @@
 			controlsBefore:	'',
 			controlsAfter:	'',	
 			controlsAppendTo: '',
-      controlsFade:	true,
+                        controlsFade:	true,
 			firstId: 		'firstBtn',
 			firstText: 		'First',
 			firstShow:		false,
