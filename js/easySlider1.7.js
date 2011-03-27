@@ -15,17 +15,17 @@
  */
  
 /*
- *  markup example for $("#slider").easySlider();
+ *  Markup example for $("#slider").easySlider();
  *	
- *      <div id="slider">
+ *    <div id="slider">
  *	    <ul>
- *	        <li><img src="images/01.jpg" alt="" /></li>
- *		<li><img src="images/02.jpg" alt="" /></li>
- *		<li><img src="images/03.jpg" alt="" /></li>
- *		<li><img src="images/04.jpg" alt="" /></li>
- *		<li><img src="images/05.jpg" alt="" /></li>
- *          </ul>
- *      </div>
+ *	      <li><img src="images/01.jpg" alt="" /></li>
+ *		    <li><img src="images/02.jpg" alt="" /></li>
+ *		    <li><img src="images/03.jpg" alt="" /></li>
+ *		    <li><img src="images/04.jpg" alt="" /></li>
+ *		    <li><img src="images/05.jpg" alt="" /></li>
+ *      </ul>
+ *    </div>
  *
  */
 
@@ -43,7 +43,7 @@
 			controlsBefore:	'',
 			controlsAfter:	'',	
 			controlsAppendTo: '',
-                        controlsFade:	true,
+      controlsFade:	true,
 			firstId: 		'firstBtn',
 			firstText: 		'First',
 			firstShow:		false,
